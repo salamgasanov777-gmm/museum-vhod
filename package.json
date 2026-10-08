@@ -1,0 +1,10 @@
+{
+  "name": "museum-vhod",
+  "version": "1.0.0",
+  "description": "Российский вход для гостей Отклика: пересылает страницу оценки и оценки на основной сервер",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
